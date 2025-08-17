@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Rayan !
 
-🎓 Étudiant en **Informatique** à l’École Normale Supérieure (ENS) de **Marrakech**.  
+🎓 Étudiant en **Informatique** à l’ecole marocaine des sciences de l'ingénieur de **Marrakech**.  
 💼 Passionné par le développement logiciel, la gestion de projet et les technologies web.  
 🌍 Originaire du Maroc 🇲🇦, j’aime concevoir des solutions utiles, bien pensées et accessibles.
 - 📍 Basé à Marrakech, Maroc
